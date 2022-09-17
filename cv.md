@@ -1,8 +1,11 @@
 # **My CV**
 Arkhip Evgeny Vitalevich
-mail: iakshi412@gmail.com
-tel: 89527916426
-discord:Iakshi
+
+
+Contacts:
+* mail: iakshi412@gmail.com
+* tel: 89527916426
+* discord:Iakshi
 
 ## **About me:**
 Hello every one, i want to become a developer, for now i learnt and work in the direction of a WEB developer.I have already made my first steps in this diretion.I already learned and worked on a few sites using HTML, CSS, javascript to build them. And now i am learning in RS school trying further develop my skills mainly in JavaScript and it's frameworks.
@@ -22,7 +25,7 @@ I have liked tinkerings in computers since dad brought one over. At the begging 
 * Right now i am working as head of the technical support group.
 
 
-## ***Technical knowledge:**
+## **Technical knowledge:**
 * Know HTML,CSS,JavaScript(beginner),Figma,Git,VS Code, google dev tools.
 * Practicing coding in CodeWars and leetcode at the moment.
 
